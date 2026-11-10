@@ -1,0 +1,7 @@
+category,reported_all_anomaly_auroc,reproduced_logical_auroc,delta
+breakfast_box,85.4,78.03,-7.37
+juice_bottle,98.5,93.70,-4.80
+pushpins,87.4,78.26,-9.14
+screw_bag,82.0,61.76,-20.24
+splicing_connectors,89.0,63.41,-25.59
+macro_mean,88.5,75.03,-13.47

@@ -1,0 +1,6 @@
+category,normal_image,generated_image,candidate_source,edge_operation,region_selection
+breakfast_box,samples/breakfast_box_normal.png,samples/breakfast_box_generated.png,236.png,remove,semantic
+juice_bottle,samples/juice_bottle_normal.png,samples/juice_bottle_generated.png,249.png,replace,semantic
+pushpins,samples/pushpins_normal.png,samples/pushpins_generated.png,019.png,merge,semantic
+screw_bag,samples/screw_bag_normal.png,samples/screw_bag_generated.png,044.png,replace,semantic
+splicing_connectors,samples/splicing_connectors_normal.png,samples/splicing_connectors_generated.png,030.png,merge,semantic

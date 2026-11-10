@@ -1,0 +1,332 @@
+[
+  {
+    "epoch": 10,
+    "logical_image_auroc_macro": 0.6615817303106681,
+    "per_category": {
+      "breakfast_box": 0.7466335931963146,
+      "juice_bottle": 0.82634102487264,
+      "pushpins": 0.6794871794871795,
+      "splicing_connectors": 0.5685496420790539,
+      "screw_bag": 0.48689721191815244
+    }
+  },
+  {
+    "epoch": 20,
+    "logical_image_auroc_macro": 0.6782235194772346,
+    "per_category": {
+      "breakfast_box": 0.7258445546893456,
+      "juice_bottle": 0.8762361402457297,
+      "pushpins": 0.6821149864628125,
+      "splicing_connectors": 0.561391223155929,
+      "screw_bag": 0.5455306928323561
+    }
+  },
+  {
+    "epoch": 30,
+    "logical_image_auroc_macro": 0.7070224576592825,
+    "per_category": {
+      "breakfast_box": 0.789983463264824,
+      "juice_bottle": 0.9464339226850464,
+      "pushpins": 0.6817964644051601,
+      "splicing_connectors": 0.6157018362900716,
+      "screw_bag": 0.5011966016513103
+    }
+  },
+  {
+    "epoch": 40,
+    "logical_image_auroc_macro": 0.725268619299923,
+    "per_category": {
+      "breakfast_box": 0.7749822820694543,
+      "juice_bottle": 0.943961642193587,
+      "pushpins": 0.7001114827201784,
+      "splicing_connectors": 0.5791316526610645,
+      "screw_bag": 0.6281560368553308
+    }
+  },
+  {
+    "epoch": 50,
+    "logical_image_auroc_macro": 0.7148888394880228,
+    "per_category": {
+      "breakfast_box": 0.8034490904795654,
+      "juice_bottle": 0.954749775247228,
+      "pushpins": 0.6958114349418697,
+      "splicing_connectors": 0.5518985371926548,
+      "screw_bag": 0.5685353595787962
+    }
+  },
+  {
+    "epoch": 60,
+    "logical_image_auroc_macro": 0.7286823312898133,
+    "per_category": {
+      "breakfast_box": 0.7841956059532247,
+      "juice_bottle": 0.9564728798321845,
+      "pushpins": 0.659738811912725,
+      "splicing_connectors": 0.6210706504824152,
+      "screw_bag": 0.6219337082685175
+    }
+  },
+  {
+    "epoch": 70,
+    "logical_image_auroc_macro": 0.710030699657117,
+    "per_category": {
+      "breakfast_box": 0.7884479092841956,
+      "juice_bottle": 0.9635900509439617,
+      "pushpins": 0.6809205287466157,
+      "splicing_connectors": 0.5620915032679739,
+      "screw_bag": 0.5551035060428383
+    }
+  },
+  {
+    "epoch": 80,
+    "logical_image_auroc_macro": 0.7041608881377688,
+    "per_category": {
+      "breakfast_box": 0.7876210725253957,
+      "juice_bottle": 0.8346568774348216,
+      "pushpins": 0.6790093964007008,
+      "splicing_connectors": 0.6263616557734205,
+      "screw_bag": 0.5931554385545053
+    }
+  },
+  {
+    "epoch": 90,
+    "logical_image_auroc_macro": 0.7024506337541299,
+    "per_category": {
+      "breakfast_box": 0.7873848334514528,
+      "juice_bottle": 0.8906203176505844,
+      "pushpins": 0.6492275840101928,
+      "splicing_connectors": 0.614301276065982,
+      "screw_bag": 0.5707191575924375
+    }
+  },
+  {
+    "epoch": 100,
+    "logical_image_auroc_macro": 0.7178667747541223,
+    "per_category": {
+      "breakfast_box": 0.7995511457595086,
+      "juice_bottle": 0.9699580461492359,
+      "pushpins": 0.7087115782767957,
+      "splicing_connectors": 0.5225645813881108,
+      "screw_bag": 0.5885485221969606
+    }
+  },
+  {
+    "epoch": 110,
+    "logical_image_auroc_macro": 0.7128353374069449,
+    "per_category": {
+      "breakfast_box": 0.7639971651311127,
+      "juice_bottle": 0.8917440815103387,
+      "pushpins": 0.7126931039974518,
+      "splicing_connectors": 0.5995953937130408,
+      "screw_bag": 0.5961469426827809
+    }
+  },
+  {
+    "epoch": 120,
+    "logical_image_auroc_macro": 0.7431828031942354,
+    "per_category": {
+      "breakfast_box": 0.7641152846680841,
+      "juice_bottle": 0.930776146239137,
+      "pushpins": 0.7670807453416149,
+      "splicing_connectors": 0.6381107998755058,
+      "screw_bag": 0.615831039846835
+    }
+  },
+  {
+    "epoch": 130,
+    "logical_image_auroc_macro": 0.7296538361309477,
+    "per_category": {
+      "breakfast_box": 0.7602173399480274,
+      "juice_bottle": 0.9294276296074319,
+      "pushpins": 0.7426341774167862,
+      "splicing_connectors": 0.6183473389355743,
+      "screw_bag": 0.5976426947469188
+    }
+  },
+  {
+    "epoch": 140,
+    "logical_image_auroc_macro": 0.7388664971905543,
+    "per_category": {
+      "breakfast_box": 0.7798251830852823,
+      "juice_bottle": 0.9053790830086904,
+      "pushpins": 0.767160375856028,
+      "splicing_connectors": 0.6328976034858388,
+      "screw_bag": 0.6090702405169319
+    }
+  },
+  {
+    "epoch": 150,
+    "logical_image_auroc_macro": 0.7232038171931864,
+    "per_category": {
+      "breakfast_box": 0.741318214032601,
+      "juice_bottle": 0.9796224153431226,
+      "pushpins": 0.6874502309284918,
+      "splicing_connectors": 0.609088079676315,
+      "screw_bag": 0.5985401459854015
+    }
+  },
+  {
+    "epoch": 160,
+    "logical_image_auroc_macro": 0.7019799558246486,
+    "per_category": {
+      "breakfast_box": 0.7778171509567683,
+      "juice_bottle": 0.8786335031465388,
+      "pushpins": 0.7048096830705526,
+      "splicing_connectors": 0.571817615935263,
+      "screw_bag": 0.5768218260141199
+    }
+  },
+  {
+    "epoch": 170,
+    "logical_image_auroc_macro": 0.7426156104246138,
+    "per_category": {
+      "breakfast_box": 0.7820694542877392,
+      "juice_bottle": 0.9564728798321845,
+      "pushpins": 0.7258321388756171,
+      "splicing_connectors": 0.6299408652349828,
+      "screw_bag": 0.6187627138925452
+    }
+  },
+  {
+    "epoch": 180,
+    "logical_image_auroc_macro": 0.7443349050540975,
+    "per_category": {
+      "breakfast_box": 0.7619891330025986,
+      "juice_bottle": 0.9379682349415642,
+      "pushpins": 0.7940754897276636,
+      "splicing_connectors": 0.6410675381263616,
+      "screw_bag": 0.5865741294722987
+    }
+  },
+  {
+    "epoch": 190,
+    "logical_image_auroc_macro": 0.7412552955523675,
+    "per_category": {
+      "breakfast_box": 0.7752185211433971,
+      "juice_bottle": 0.958420737189092,
+      "pushpins": 0.7361841057493231,
+      "splicing_connectors": 0.6214596949891068,
+      "screw_bag": 0.6149934186909178
+    }
+  },
+  {
+    "epoch": 200,
+    "logical_image_auroc_macro": 0.7359995746942907,
+    "per_category": {
+      "breakfast_box": 0.7824238128986535,
+      "juice_bottle": 0.9365448007192089,
+      "pushpins": 0.7221691352126135,
+      "splicing_connectors": 0.6106442577030813,
+      "screw_bag": 0.6282158669378963
+    }
+  },
+  {
+    "epoch": 210,
+    "logical_image_auroc_macro": 0.7512044136199192,
+    "per_category": {
+      "breakfast_box": 0.7832506496574534,
+      "juice_bottle": 0.9468834282289481,
+      "pushpins": 0.7859531772575251,
+      "splicing_connectors": 0.6360099595393713,
+      "screw_bag": 0.6039248534162978
+    }
+  },
+  {
+    "epoch": 220,
+    "logical_image_auroc_macro": 0.7387596635450532,
+    "per_category": {
+      "breakfast_box": 0.7811244979919679,
+      "juice_bottle": 0.9396164219358706,
+      "pushpins": 0.742554546902373,
+      "splicing_connectors": 0.6288515406162465,
+      "screw_bag": 0.6016513102788081
+    }
+  },
+  {
+    "epoch": 230,
+    "logical_image_auroc_macro": 0.7378681049616085,
+    "per_category": {
+      "breakfast_box": 0.7819513347507677,
+      "juice_bottle": 0.9327240035960443,
+      "pushpins": 0.7461379200509636,
+      "splicing_connectors": 0.6257391845627139,
+      "screw_bag": 0.602788081847553
+    }
+  },
+  {
+    "epoch": 240,
+    "logical_image_auroc_macro": 0.7510496221895002,
+    "per_category": {
+      "breakfast_box": 0.7747460429955114,
+      "juice_bottle": 0.9560233742882829,
+      "pushpins": 0.7769549291288421,
+      "splicing_connectors": 0.6269063180827886,
+      "screw_bag": 0.6206174464520761
+    }
+  },
+  {
+    "epoch": 250,
+    "logical_image_auroc_macro": 0.7416104445831107,
+    "per_category": {
+      "breakfast_box": 0.7730923694779116,
+      "juice_bottle": 0.9230596344021577,
+      "pushpins": 0.7838827838827839,
+      "splicing_connectors": 0.6380329909741674,
+      "screw_bag": 0.589984444178533
+    }
+  },
+  {
+    "epoch": 260,
+    "logical_image_auroc_macro": 0.7354546152839787,
+    "per_category": {
+      "breakfast_box": 0.7819513347507677,
+      "juice_bottle": 0.9330985915492958,
+      "pushpins": 0.7469342251950948,
+      "splicing_connectors": 0.6311079987550576,
+      "screw_bag": 0.5841809261696781
+    }
+  },
+  {
+    "epoch": 270,
+    "logical_image_auroc_macro": 0.7473428399038886,
+    "per_category": {
+      "breakfast_box": 0.7825419324356249,
+      "juice_bottle": 0.9407401857956248,
+      "pushpins": 0.7747252747252747,
+      "splicing_connectors": 0.6321195144724556,
+      "screw_bag": 0.6065872920904631
+    }
+  },
+  {
+    "epoch": 280,
+    "logical_image_auroc_macro": 0.7491741035241245,
+    "per_category": {
+      "breakfast_box": 0.7791164658634538,
+      "juice_bottle": 0.9412646089301768,
+      "pushpins": 0.7858735467431119,
+      "splicing_connectors": 0.6312636165577342,
+      "screw_bag": 0.6083522795261458
+    }
+  },
+  {
+    "epoch": 290,
+    "logical_image_auroc_macro": 0.7526392674188475,
+    "per_category": {
+      "breakfast_box": 0.7838412473423104,
+      "juice_bottle": 0.9510788133053641,
+      "pushpins": 0.7834846313107182,
+      "splicing_connectors": 0.6324307500778089,
+      "screw_bag": 0.6123608950580351
+    }
+  },
+  {
+    "epoch": 300,
+    "logical_image_auroc_macro": 0.7503338302759011,
+    "per_category": {
+      "breakfast_box": 0.780297661233168,
+      "juice_bottle": 0.9369943062631105,
+      "pushpins": 0.782608695652174,
+      "splicing_connectors": 0.6341425459072518,
+      "screw_bag": 0.6176259423238004
+    }
+  }
+]
