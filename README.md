@@ -3,26 +3,16 @@
 Paper-guided re-implementation of LogicAL (Zhao, 2024): edge manipulation, one
 unified DeepSIM generator, and an OmniAL-style localization network.
 
-Result: **75.03** mean image-level AUROC on the five MVTec LOCO logical-anomaly
-test subsets (final epoch 300).  This archive reports **image-level AUROC
-only**; the paper's pixel-level AU-sPRO, MVTecAD/VisA/MADsim experiments and
-ablation are not reproduced.
+This archive reports **image-level AUROC only**; the paper's pixel-level
+AU-sPRO, MVTecAD/VisA/MADsim experiments and ablation are not reproduced.
+The per-image scores of the released run are included under `results/`, and
+all reported AUROCs can be recomputed with `tools/verify_results.py`.
 
-## Result
+## Evaluation protocol
 
-| Category | Reproduced (logical) | Paper, all anomalies (Table 1) |
-|---|---:|---:|
-| Breakfast box | 78.03 | 85.4 |
-| Juice bottle | 93.70 | 98.5 |
-| Pushpins | 78.26 | 87.4 |
-| Screw bag | 61.76 | 82.0 |
-| Splicing connectors | 63.41 | 89.0 |
-| **Mean** | **75.03** | **88.5** |
-
-The paper's label-matched logical mean is **84.6** (Table 2).  The per-category
-paper values above aggregate all anomaly types, so only the mean row is
-comparable.  Test split: 1,136 images (`test/good` 575, `test/logical_anomalies`
-561).  The final epoch is reported; no test-based checkpoint selection is used.
+Evaluation uses the MVTec LOCO logical-anomaly test split (1,136 images:
+`test/good` 575, `test/logical_anomalies` 561). The final epoch (300) is
+reported; no test-based checkpoint selection is used.
 
 ## Layout
 
